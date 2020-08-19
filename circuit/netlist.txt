@@ -1,0 +1,14 @@
+* Netlist created with www.circuit-diagram.org
+* 
+'label text=Other circuit
+'label text=Other circuit
+'ground com:0 voltage=0 frequency=50 showvoltage=True t=Ground
+'rail com:1 voltage=5 frequency=50 showvoltage=True t=Rail2
+'Relay 3:1 4:0 2:2 1:3
+'diode cat:3 an:4 t=Standard
+'resistor a:5 style=US text= resistance=1000 showResistance=True t=Standard
+'transnpn base:6 col:2 t=NPN
+'label text=RELAY
+'rail com:4 voltage=5 frequency=50 showvoltage=True t=Rail2
+'ground com:6 voltage=0 frequency=50 showvoltage=True t=Ground
+'microcontroller #15:5 #26:6 #20:4 header=NodeMCU sz=30 p0=A0 p1=D0 p2=RSV p3=D1 p4=RSV p5=D2 p6=SD3 p7=D3 p8=SD2 p9=D4 p10=SD1 p11=3V3 p12=CMD p13=GND p14=SD0 p15=D5 p16=CLK p17=D6 p18=GND p19=D7 p20=3V3 p21=D8 p22=EN p23=RX p24=RST p25=TX p26=GND p27=GND p28=Vin p29=3V3 p30= p31= p32= p33= p34= p35= p36= p37= p38= p39=
